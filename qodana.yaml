@@ -4,4 +4,4 @@ profile:
 exclude:
   - name: SyntaxError
     paths:
-      - hope-admin
+      - hope-boot/hope-admin
