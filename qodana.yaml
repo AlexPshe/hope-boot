@@ -3,5 +3,6 @@ profile:
   name: qodana.recommended
 exclude:
   - name: SyntaxError
+  - name: All
     paths:
       - hope-boot/hope-admin
